@@ -1,2 +1,2 @@
 # Kievan-Rus-mod
-Ny first mod 
+My first mod 
