@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Yaroslavs Biblioteka",
+		"replaces": "Library",
+		"cost": 180,
+		"uniqueTo": "Kievan Rus",
+		"cityStrength": 10,
+		"cityHealth": 75,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+	},
+]
+		
